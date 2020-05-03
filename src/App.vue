@@ -56,14 +56,14 @@ img {
   background: #6655dd;
   transform: scale(1.1);
 }
-  #app {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-  }
-  #main {
-    flex: 1;
-  }
+#app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+#main {
+  flex: 1;
+}
 </style>
 <script>
 import MyHeader from "@/components/MyHeader";

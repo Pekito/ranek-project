@@ -1,0 +1,43 @@
+{
+  "usuario": [
+    {
+      "id": "pedroluizfpires@hotmail.com",
+      "email": "pedroluizfpires@hotmail.com",
+      "nome": "Pedro Luiz",
+      "senha": "djongador",
+      "rua": "Interloiros",
+      "cep": "04811111",
+      "numero": "25",
+      "estado": "SP",
+      "cidade": "São Paulo"
+    }
+  ],
+  "produto": [
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular",
+      "nome": "Celular",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    }
+  ]
+}

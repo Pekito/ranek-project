@@ -1,6 +1,6 @@
 <template>
   <section>
-    <h1> 👍 Compre ou Venda 👎 </h1>
+    <h1> 👍 Compre ou Venda <span class="flip">👍</span> </h1>
     <ProdutosBuscar/>
     <ProdutosLista/>
   </section>
@@ -24,5 +24,13 @@ export default {
     margin-top: 40px;
     font-size: 2rem;
     text-align: center;
+  }
+  .flip {
+    display: inline-block;
+    -moz-transform: scale(-1, 1);
+    -webkit-transform: scale(-1, 1);
+    -o-transform: scale(-1, 1);
+    -ms-transform: scale(-1, 1);
+    transform: scale(-1, 1);
   }
 </style>
