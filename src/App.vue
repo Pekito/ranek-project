@@ -64,6 +64,25 @@ img {
 #main {
   flex: 1;
 }
+
+input,
+textarea {
+  box-shadow: 0 4px 8px rgba(30, 60, 90, 0.1);
+  padding: 15px;
+  border: 1px solid white;
+  border-radius: 4px;
+  transition: all 0.3s;
+  font-size: 1rem;
+  font-family: "Segoe UI", serif;
+}
+input:hover,
+textarea:hover,
+input:focus,
+textarea:focus {
+  outline: none;
+  box-shadow: 0 6px 12px rgba(30, 60, 90, 0.2);
+  border-color: #87f;
+}
 </style>
 <script>
 import MyHeader from "@/components/MyHeader";
