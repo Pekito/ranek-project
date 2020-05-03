@@ -38,6 +38,679 @@
       "vendido": "false",
       "descricao": "Esse é um novo celular",
       "fotos": null
+    },
+    {
+      "id": "notebook2",
+      "nome": "Notebook 2",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet2",
+      "nome": "Tablet 2",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular2",
+      "nome": "Celular 2",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },
+    {
+      "id": "notebook3",
+      "nome": "Notebook 3",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet3",
+      "nome": "Tablet 3",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular3",
+      "nome": "Celular 3",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },
+    {
+      "id": "notebook4",
+      "nome": "Notebook 4",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet4",
+      "nome": "Tablet 4",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular4",
+      "nome": "Celular 4",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },
+    {
+      "id": "notebook5",
+      "nome": "Notebook 5",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet5",
+      "nome": "Tablet 5",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular5",
+      "nome": "Celular 5",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },
+    {
+      "id": "notebook6",
+      "nome": "Notebook 6",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet6",
+      "nome": "Tablet 6",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular6",
+      "nome": "Celular 6",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },    {
+      "id": "notebook7",
+      "nome": "Notebook 7",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet7",
+      "nome": "Tablet 7",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular7",
+      "nome": "Celular 7",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    }
+    ,    {
+      "id": "notebook8",
+      "nome": "Notebook 8",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet8",
+      "nome": "Tablet 8",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular8",
+      "nome": "Celular 8",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    }
+    ,    {
+      "id": "notebook9",
+      "nome": "Notebook 9",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet9",
+      "nome": "Tablet 9",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular9",
+      "nome": "Celular 9",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular",
+      "nome": "Celular",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },
+    {
+      "id": "notebook2",
+      "nome": "Notebook 2",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet2",
+      "nome": "Tablet 2",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular2",
+      "nome": "Celular 2",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },
+    {
+      "id": "notebook3",
+      "nome": "Notebook 3",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet3",
+      "nome": "Tablet 3",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular3",
+      "nome": "Celular 3",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },
+    {
+      "id": "notebook4",
+      "nome": "Notebook 4",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet4",
+      "nome": "Tablet 4",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular4",
+      "nome": "Celular 4",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },
+    {
+      "id": "notebook5",
+      "nome": "Notebook 5",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet5",
+      "nome": "Tablet 5",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular5",
+      "nome": "Celular 5",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },
+    {
+      "id": "notebook6",
+      "nome": "Notebook 6",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet6",
+      "nome": "Tablet 6",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular6",
+      "nome": "Celular 6",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },    {
+      "id": "notebook7",
+      "nome": "Notebook 7",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet7",
+      "nome": "Tablet 7",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular7",
+      "nome": "Celular 7",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    }
+  ,    {
+      "id": "notebook8",
+      "nome": "Notebook 8",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet8",
+      "nome": "Tablet 8",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular8",
+      "nome": "Celular 8",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    }
+  ,    {
+      "id": "notebook9",
+      "nome": "Notebook 9",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet9",
+      "nome": "Tablet 9",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular9",
+      "nome": "Celular 9",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular",
+      "nome": "Celular",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },
+    {
+      "id": "notebook2",
+      "nome": "Notebook 2",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet2",
+      "nome": "Tablet 2",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular2",
+      "nome": "Celular 2",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },
+    {
+      "id": "notebook3",
+      "nome": "Notebook 3",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet3",
+      "nome": "Tablet 3",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular3",
+      "nome": "Celular 3",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },
+    {
+      "id": "notebook4",
+      "nome": "Notebook 4",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet4",
+      "nome": "Tablet 4",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular4",
+      "nome": "Celular 4",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },
+    {
+      "id": "notebook5",
+      "nome": "Notebook 5",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet5",
+      "nome": "Tablet 5",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular5",
+      "nome": "Celular 5",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },
+    {
+      "id": "notebook6",
+      "nome": "Notebook 6",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet6",
+      "nome": "Tablet 6",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular6",
+      "nome": "Celular 6",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },    {
+      "id": "notebook7",
+      "nome": "Notebook 7",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet7",
+      "nome": "Tablet 7",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular7",
+      "nome": "Celular 7",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    }
+  ,    {
+      "id": "notebook8",
+      "nome": "Notebook 8",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet8",
+      "nome": "Tablet 8",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular8",
+      "nome": "Celular 8",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    }
+  ,    {
+      "id": "notebook9",
+      "nome": "Notebook 9",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet9",
+      "nome": "Tablet 9",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },    {
+      "id": "celular9",
+      "nome": "Celular 9",
+      "usuario_id": "pedroluizfpires@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
     }
   ]
 }
